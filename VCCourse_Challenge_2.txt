@@ -1,1 +1,1 @@
-Committed this file to my GitHib repository using Git Bash terminal interface
+Committed this file to my GitHub repository using Git Bash terminal interface.
